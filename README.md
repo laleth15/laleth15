@@ -3,6 +3,7 @@
 ###
 
 <img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Frobot-waving&psig=AOvVaw03MvQJ7hF1b63hDaGhujVB&ust=1713223945355000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiT_6mkw4UDFQAAAAAdAAAAABAY"  />
+<iframe align="right" src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p>
 
 ###
 
