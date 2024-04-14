@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Laleth Indirani Nehrukumar and I'm a Robotics Software Engineer and a student a @ Northeastern University</h2>
+<h2 align="left">Hi 👋! My name is Laleth Indirani Nehrukumar. I'm a Robotics Software Engineer and a student @ Northeastern University</h2>
 
 ###
 
