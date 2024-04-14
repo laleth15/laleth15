@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" height="70" alt="ROS logo"/>
